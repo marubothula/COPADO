@@ -186,4 +186,11 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+    <fullName>False__c</fullName>
+        <defaultValue>true</defaultValue>
+        <externalId>false</externalId>
+        <label>False</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
 </CustomObject>
